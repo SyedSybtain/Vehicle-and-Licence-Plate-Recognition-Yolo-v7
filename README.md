@@ -11,8 +11,7 @@ System Model
 
 
 Flow Chart 
+
 ![FlowChartnew](https://github.com/SyedSybtain/Vehicle-and-Licence-Plate-Recognition-Yolo-v7/assets/115772979/eacc49e0-74de-4ce1-bc31-155c4060db81)
-
-
 
 Results 

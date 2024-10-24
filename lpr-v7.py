@@ -394,6 +394,8 @@ def detect(save_img=False):
         print(f"Results saved to {save_dir}{s}")
         print("Vehicle Type is : ",vehicle)
         print("Licence Plate Number is : ",characters)
+        stacked_images = cvzone.stackImages([source, im1s, imgchar ], 2, 0.4)
+        cv2.imshow("Stacked Images", stacked_images)
         data = '0'
         
 
